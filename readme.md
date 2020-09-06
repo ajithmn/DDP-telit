@@ -11,4 +11,5 @@ this is my first git project, i am trying to learn below processes
 	* git clone (clone a remote respository to your desktop)
 1. how to create branches
 2. how to make changes to the remote repository
-3.
+3. how to create a branch
+1. how to edit files in branch and how to merge branch with master branch.
